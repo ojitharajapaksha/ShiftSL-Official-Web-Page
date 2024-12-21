@@ -754,8 +754,8 @@ body.nav-active { overflow: hidden; }
   left: 0;
   bottom: 0;
   right: 0;
-  background-color: rgba(192, 192, 192, 0.5); /* Adjust the last value (0.5) to set the level of transparency */
-  opacity: 1; /* Ensure opacity is set to 1 to apply RGBA transparency */
+  background-color: var(--quick-silver);
+  opacity: 0;
   pointer-events: none;
   transition: var(--transition-2);
   z-index: 1;
