@@ -1272,7 +1272,7 @@ textarea.input-field {
 
 .feature-item:nth-child(2n+1) .feature-card { background-color: var(--quick-silver); }
 
-.feature-item:nth-child(2n) .feature-card { background-color: var(--smoky-black-3); }
+.feature-item:nth-child(2n) .feature-card { background-color: var(--quick-silver); }
 
 .feature-card .card-icon {
   max-width: max-content;
